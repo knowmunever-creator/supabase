@@ -122,7 +122,7 @@ Pendekatan kami untuk pustaka klien bersifat modular. Setiap sub-pustaka adalah 
     <td><a href="https://github.com/supabase/functions-dart" target="_blank" rel="noopener noreferrer">functions-dart</a></td>
   </tr>
   
-  <th colspan="7">💚 Komunitas 💚</th>
+  <th colspan="7"> Komunitas </th>
   
   <tr>
     <td>C#</td>
